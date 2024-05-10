@@ -1,2 +1,6 @@
-document.body.innerHTML = "<h1>Hello from JS</h1>"
-console.log("Test 2")
+let str1 = 2;
+let str2 = 1;
+
+console.log(str1 + str2)
+
+//фівфівфівфів
